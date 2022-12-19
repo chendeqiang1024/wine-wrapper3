@@ -1,0 +1,3 @@
+[submodule "wine"]
+	path = wine
+	url = git@github.com:chendeqiang1024/wine.git
